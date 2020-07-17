@@ -1,0 +1,1 @@
+SPOJ questions in no particular order
