@@ -28,9 +28,9 @@ int main(){
 			A[i]=0;
 		}
 	}
-	for(int i=0;i<10;i++){
-	cout<<A[i]<<" ";	
-	}
+//	for(int i=0;i<10;i++){
+//	cout<<A[i]<<" ";	
+//	}
 	while(t--){
 		int n;
 		cin>>n;
