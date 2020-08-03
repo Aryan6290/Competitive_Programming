@@ -29,7 +29,7 @@ int main(){
 				}
 				if(flag==0){
 					ans_count++;
-					cout<<i<<endl;
+//					cout<<i<<endl;
 				}
 			}
 			else
@@ -45,7 +45,7 @@ int main(){
 				}
 				if(flag==0){
 					ans_count++;
-					cout<<i<<endl;
+//					cout<<i<<endl;
 				}
 				}
 			}
